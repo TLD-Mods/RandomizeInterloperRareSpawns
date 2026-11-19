@@ -22,7 +22,7 @@ On vanilla interloper, finding one rare item allows the player to know the locat
 | Bedroll          | Homesteader's Respite in Ash Canyon    |
 | Storm Lantern    | Middle Layer of Cinder Hills Coal Mine |
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/RandomizeInterloperRareSpawns.png" width="80%">
+<img src="https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/RandomizeInterloperRareSpawns.png" width="80%">
 
 ## Requirements
 
