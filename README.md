@@ -1,5 +1,7 @@
 # Randomize Interloper Rare Spawns
 
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
+
 ⚠️ **Note: DO NOT use with existing saves. It will probably delete your rare items.** ⚠️
 
 On vanilla interloper, finding one rare item allows the player to know the locations of every other rare item in the game world. This mod eliminates that certainty.
